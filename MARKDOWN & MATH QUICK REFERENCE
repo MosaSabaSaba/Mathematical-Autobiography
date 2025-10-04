@@ -1,0 +1,37 @@
+# Text Formatting
+
+**Bold Text** or __Bold Text__
+*Italic Text* or _Italic Text_
+***Bold & Italic***
+`Inline Code`
+~~Strikethrough~~
+
+## Headers
+
+# H1 Header
+## H2 Header  
+### H3 Header
+#### H4 Header
+
+Lists
+
+- Bullet point
+- Another item
+  - Sub-item
+
+1. Numbered list
+2. Second item
+
+# MATHEMATICAL NOTATION
+
+Superscript Numbers
+⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹
+
+Common Math Symbols
+× ÷ ± ≠ ≈ ≤ ≥ ⋅ ∞ √ ∆ π θ °
+
+Multiplication Styles
+a * b      # Basic asterisk
+a ⋅ b      # Dot operator  
+a × b      # Times symbol
+
